@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on fun niche interesting products and research
 - 💬 Ask me about anything related to tech/data or living things ! 
 - 📫 How to reach me: LinkedIn message or ztd6dmlva [at] relay.firefox.com
-- I write [here (Notion thoughts journal)](https://randomized.notion.site/Interesting-Stuff-journal-cb6398e0f4e7486db2ba396f35df2005), [here (personal blog)](https://anaselk.com/) and sometime [here (Medium)](https://anas-elk.medium.com/) ! 
+- I write [here (Notion thoughts journal)](https://randomized.notion.site/Interesting-Stuff-journal-cb6398e0f4e7486db2ba396f35df2005), [here (personal blog)](https://anaselk.com/) and sometimes [here (Medium)](https://anas-elk.medium.com/) ! 
 
 ## My tech stack: 
 I usually just learn whatever tool I need to use, as I consider myself a polymath. Still, I've been consistently using these for years now: 

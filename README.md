@@ -20,9 +20,6 @@ I optimize for *simplicity*, fast execution and solving real problems with pragm
 
 ### Get in touch:
 
-- gva7cfxjn [at] relay.firefox.com
-- [Linkedin](https://www.linkedin.com/in/anaselkhaloui)
-- [Blog](https://anima-mundi.bearblog.dev/linkedin/)
+gva7cfxjn [at] relay.firefox.com
 
-  
 *Currently leading a company-wide GenAI transformation, combining targeted deep engineering with a strong understanding of business realities to deliver impact where it matters most.*

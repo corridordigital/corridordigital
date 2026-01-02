@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hey, I'm Anas 👋
 
-- 🔭 Working on pushing the limits of machine learning for time series modeling. I'm specifically working on efficient automatic procedures that work on massive numbers of heterogeneous time series.
-- 🌱 I’m currently learning psychology, botanics and advanced economics (among other stuff)
-- 👯 I’m looking to collaborate on fun niche interesting products and research
-- 💬 Ask me about anything related to tech/data or living things ! 
-- 📫 How to reach me: LinkedIn message or ztd6dmlva [at] relay.firefox.com
-- I write [here (Notion thoughts journal)](https://randomized.notion.site/Interesting-Stuff-journal-cb6398e0f4e7486db2ba396f35df2005), [here (personal blog)](https://anaselk.com/) and sometimes [here (Medium)](https://anas-elk.medium.com/) ! 
+I am a Data Leader and Engineering Manager focused on operationalizing AI & ML to create amazing products. 🙂
 
-## My tech stack: 
-I usually just learn whatever tool I need to use, as I consider myself a polymath. Still, I've been consistently using these for years now: 
-* Python, R, bash
-* SQL, dbt, Airflow
-* Linux, Ansible, Terraform, Docker
-* Google Cloud Platform services (Cloud Run, BigQuery, etc.)
-* A bunch of libraries related to data processing, machine learning, forecasting, etc. 
+I've built multiple 0 to 1 systems/products and teams working with diverse cultures, tools and constraints.
+
+I optimize for *simplicity*, fast execution and solving real problems with pragmatic solutions.
+
+---
+
+I am: 
+- **Adventurous**: I just dive in and engineer around obstacles. There is always a way.
+- **Clear and direct**: I find the shortest path to close the loop. High signal to noise. No BS.
+- **High-Performing**: A player, not a watcher/commenter. Driven. 
+- **T-Shaped**: Extreme curiosity has driven me to learn broadly and, in a few domains, quite deeply.
+- **Optimistic and mission-focused**: I believe we can fundamentally improve the human condition, at least on some specific highly important aspect.
+
+Get in touch:
+- gva7cfxjn [at] relay.firefox.com
+- [Linkedin](https://www.linkedin.com/in/anaselkhaloui)
+- [Blog](https://anima-mundi.bearblog.dev/linkedin/)
+
+  
+*Currently focused on implementing company-wide GenAI transformation in an efficient way; bridging the gap between deep engineering and business reality.*
